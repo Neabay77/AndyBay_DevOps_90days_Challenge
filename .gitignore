@@ -1,0 +1,4 @@
+.ssh/
+*.pem
+*.key
+id_rsa*
